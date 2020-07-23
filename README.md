@@ -2,12 +2,9 @@
 
 A new Flutter project - https://8ball.forbsoft.com
 
-![Image on Desktop]
-(https://i.imgur.com/ZFIcoWw.png)
+![alt text](https://i.imgur.com/ZFIcoWw.png "Desktop")
 
-![Image on Mobile]
-(https://i.imgur.com/uuCCOAX.png)
-
+![alt text](https://i.imgur.com/uuCCOAX.png "Image on Mobile")
 
 ## Getting Started
 
