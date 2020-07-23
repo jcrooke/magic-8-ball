@@ -1,9 +1,11 @@
 # Magic 8-Ball
 
-A new Flutter project - (https://8ball.forbsoft.com)
+A new Flutter project - https://8ball.forbsoft.com
 
+![Image on Desktop]
 (https://i.imgur.com/ZFIcoWw.png)
 
+![Image on Mobile]
 (https://i.imgur.com/uuCCOAX.png)
 
 
